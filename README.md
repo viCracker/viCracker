@@ -1,7 +1,7 @@
 Whatsup, I am viCracker, a student of Life. |
 I define hacking as just deep understanding of how computer systems work. |
 Skills are more important than papers, though I am a holder of a Computer Science Degree. |
-I listen more, let my CODE do the talking. | Terminal is always ON 
+I listen more, let my CODE do the talking. | Terminal is ALWAYS ON 
 
 <!---
 viCracker/viCracker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
